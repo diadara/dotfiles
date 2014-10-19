@@ -83,6 +83,7 @@ alias vim=emacsclient -t
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 #export XAPPLRESDIR="/usr/local/MATLAB/MATLAB_Compiler_Runtime/v81/X11/app-defaults"
 
-
+. ~/.cb.sh
 export PATH=$HOME/local/bin:$PATH
+export PATH=/home/bidgely/src/ghar/bin:$PATH
 
